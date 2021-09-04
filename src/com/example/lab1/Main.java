@@ -22,6 +22,7 @@ public class Main {
 			System.out.println("That way please, there is area for kids over there!");
 		}
 		
+		System.out.println("\n\n\nI struggle with this easy and basic assignment for hours just because i let the path of the project in Korean... T.T");
 	}
 
 }
